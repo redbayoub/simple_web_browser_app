@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/clear_mi"
+        android:title="Clear"
+        android:tooltipText="Clear"
+        android:icon="@drawable/ic_clear_all_white_24dp"
+        app:showAsAction="always"/>
+    <item android:id="@+id/close_mi"
+        android:title="Close"
+        android:tooltipText="Close"
+        android:icon="@drawable/ic_close_white_24dp"
+        app:showAsAction="always"/>
+
+</menu>
